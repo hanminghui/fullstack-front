@@ -1,11 +1,15 @@
 import './App.css'
+import Notes from './components/Notes'
 import PhoneBook from './components/PhoneBook'
+import ScreensForm from './components/Screens'
 
 function App() {
 
   return (
     <>
-    <PhoneBook></PhoneBook>
+    {/* <Notes></Notes> */}
+    {/* <PhoneBook></PhoneBook> */}
+    <ScreensForm></ScreensForm>
     </>
   )
 }
