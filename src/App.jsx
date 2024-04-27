@@ -8,8 +8,8 @@ function App() {
   return (
     <>
     {/* <Notes></Notes> */}
-    {/* <PhoneBook></PhoneBook> */}
-    <ScreensForm></ScreensForm>
+    <PhoneBook></PhoneBook>
+    {/* <ScreensForm></ScreensForm> */}
     </>
   )
 }
